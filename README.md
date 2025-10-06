@@ -1,7 +1,7 @@
-## Project Name
+## Image Zoom Resize
 
-[LIVE SITE]()
+[LIVE SITE](https://imagezoomresize.github.io)
 
-![ALT:preview](preview.png)
+<!-- ![ALT:preview](preview.png) -->
 
 
